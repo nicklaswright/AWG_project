@@ -4,4 +4,4 @@ The IQ-mixer and UART module are omitted since they were implemented by other gr
 The implementation was done on the Zynq Ultrascale+RF SoC board.
 
 All VHDL source files are in the folder named "src". The folder named "scripts" are just bash scripts for running Questa/Modelsim from VS Code.
-The "host" folder contains the MATLAB scripts used in the lab from the host computer to control the AWG on the FPGA board.
+The "host" folder contains the MATLAB scripts used in the lab from the host computer to control the AWG on the FPGA board over UART.
