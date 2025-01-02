@@ -3,7 +3,7 @@
 -- Verification : 
 -- Reviewers    : Nicklas Wright, Galo Sanchez 
 -- Module       : trigger.vhdl
--- Parent       : wrapper
+-- Parent       : awg.vhdl
 -- Children     : none
 -- Description  : Outputs a trig signal to the host when the pulse program is complete 
 
