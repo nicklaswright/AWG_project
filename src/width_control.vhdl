@@ -3,7 +3,7 @@
 -- Verification : Nicklas Wright
 -- Reviewers    : Galo Sanchez, Hampus Lang
 -- Module       : width_control.vhdl 
--- Parent       : receiver.vhdl
+-- Parent       : awg.vhdl
 -- Children     : inc_idx.vhdl, counter.vhdl
 
 -- Description: Wrapper file for the pulse width control. Pulse width minimum is 1 us, and time resolution is
