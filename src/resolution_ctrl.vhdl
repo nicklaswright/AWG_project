@@ -3,7 +3,7 @@
 -- Verification : Nicklas Wright
 -- Reviewers    : Galo Sanchez, Hampus Lang, Simon Jansson
 -- Module       : resolution_ctrl.vhd
--- Parent       : read_addr.vhd
+-- Parent       : none
 -- Children     : none
 
 -- Description: Resolution control module. This module assumes the waveform to be of 14-bit signed representation.
