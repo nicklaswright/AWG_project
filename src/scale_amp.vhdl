@@ -3,7 +3,7 @@
 -- Verification : Nicklas Wright
 -- Reviewers    : Galo Sanchez, Hampus Lang, Simon Jansson
 -- Module       : scale_amp.vhd
--- Parent       : none
+-- Parent       : wrapper.vhdl
 -- Children     : none
 
 -- Description: amplitude control module. Fixed-point signed multiplication of input data with fraction amp_step/512, where "amp_step" is the 
